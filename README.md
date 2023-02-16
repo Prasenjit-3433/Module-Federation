@@ -1,0 +1,1 @@
+This repositoy serves as a starter project for my blog: 
