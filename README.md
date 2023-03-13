@@ -1,1 +1,1 @@
-This repositoy serves as a starter project for my blog: 
+This repositoy serves as a starter project for my blog: [Module Federation & Micro-Frontends in Webpack 5](https://www.linkedin.com/pulse/module-federation-micro-frontends-webpack-5-prasenjit-sutradhar/)
